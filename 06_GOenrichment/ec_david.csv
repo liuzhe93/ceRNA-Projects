@@ -1,0 +1,6 @@
+category,ID,term,count,genes,adj_pval
+MF,GO:0003700,transcription factor activity, sequence-specific DNA binding,5,SOX11, E2F3, PROX1, AFF3, RUNX1,4.74077338369407e-05
+CC,GO:0005654,nucleoplasm,8,ANLN, NOVA1, SOX11, E2F3, PROX1, AFF3, EZH2, RUNX1,6.46936228174843e-05
+CC,GO:0000785,chromatin,5,SOX11, E2F3, PROX1, EZH2, RUNX1,0.000418411013653177
+MF,GO:0000978,RNA polymerase II core promoter proximal region sequence-specific DNA binding,5,SOX11, E2F3, PROX1, EZH2, RUNX1,0.000957896036359278
+BP,GO:0008284,positive regulation of cell proliferation,4,SOX11, E2F3, PROX1, EZH2,0.00115970361103011
